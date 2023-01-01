@@ -1,6 +1,6 @@
 # 01_DovizOfisiUygulamasi Projesi
 
-* Bu projemizde basit bir şekilde XML dosya işlemlerini kullanarak basit bir döviz alım - satım uygulamasını Windows Form (.NET Framework) ile gerçekleştirdim.
+* Bu projemizde basit bir şekilde XML dosya işlemlerini kullanarak basit bir döviz alım - satım uygulamasını Windows Forms App (.NET Framework) ile gerçekleştirdim.
 
 * Yapacağımız işlemler dört farklı dövizi alım ve satımını uygun durumlarda gerçekleştirmek ve toplam kasadaki paraları doğru bir şekilde hesaplamaktır. Şimdi beraber uygulamamızı inceleyelim.
 
